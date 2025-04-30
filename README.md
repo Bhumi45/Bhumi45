@@ -8,7 +8,7 @@
 
 📚 Always learning. Always curious. 🤖
 
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile) | ✉️ your.email@example.com
+📫 [LinkedIn](https://www.linkedin.com/in/bhumikaparihar/) | ✉️ your.email@example.com
 
 <!---
 Bhumi45/Bhumi45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
