@@ -6,10 +6,9 @@
 🚀 Exploring Machine Learning, AI Agents, and Real-World Data Problems  
 📊 Skilled in Python, SQL, Power BI, Excel, Machine Learning, and Statistics  
 
-📚 Always learning. Always curious.
+📚 Always learning. Always curious. 🤖
 
 📫 [LinkedIn](https://www.linkedin.com/in/your-profile) | ✉️ your.email@example.com
-
 
 <!---
 Bhumi45/Bhumi45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
