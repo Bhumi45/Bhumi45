@@ -1,8 +1,15 @@
-- 👋 Hello Folks, I’m @Bhumi45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Bhumika Parihar
+
+🎓 CS Undergrad  
+📍 Passionate about **Data**, **AI**, and becoming a **Data Scientist**
+
+🚀 Exploring Machine Learning, AI Agents, and Real-World Data Problems  
+📊 Skilled in Python, SQL, Power BI, Excel, Machine Learning, and Statistics  
+
+📚 Always learning. Always curious.
+
+📫 [LinkedIn](https://www.linkedin.com/in/your-profile) | ✉️ your.email@example.com
+
 
 <!---
 Bhumi45/Bhumi45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
