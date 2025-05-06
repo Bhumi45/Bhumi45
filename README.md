@@ -9,6 +9,7 @@
 📚 Always learning. Always curious. 🤖
 
 📫 [LinkedIn](https://www.linkedin.com/in/bhumikaparihar/) | ✉️ bhumikaparihar03@gmail.com
+📄 [View My Resume](https://drive.google.com/file/d/1-zmYznLEgOeVR9hIggcTPjF5GxTyeSX0/view?usp=drive_link)
 
 <!---
 Bhumi45/Bhumi45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
